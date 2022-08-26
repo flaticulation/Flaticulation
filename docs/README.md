@@ -1,11 +1,11 @@
-![Flaticulation Objects](/assets/Header.png)
+![Flaticulation Objects](assets/Header.png)
 
 # Flaticulation: Laser Cutting Joints with Articulated Angles
 [Chiao Fang](https://www.chiaofang.tw/), [ Vivian Hsinyueh Chan](http://vivianchan.tw/), [ Lung‑Pan Cheng](http://www.lungpancheng.tw/)
 
 
    
-![Flaticulation joint and hinge alongside with its laser-cut patterns](/assets/joint_hinge.png)
+![Flaticulation joint and hinge alongside with its laser-cut patterns](assets/joint_hinge.png)
 
 We present Flaticulation, a method to laser cut joints that clutch two cut-in-place flat boards at designated articulated angles. 
 We discover special T-patterns added on the shared edge of two pieces allowing them to be clutched at a bending angle. 
@@ -15,7 +15,7 @@ such as a mouse and reconfigurable objects such as a headphone.
 
 
 
-![Walkthrough Flaticulation using an example of making a computer mouse](/assets/walkthrough.png)
+![Walkthrough Flaticulation using an example of making a computer mouse](assets/walkthrough.png)
 
 The Flaticulation workflow starts by using our Rhino plugin to unfold a user-loaded 3D model and adding corresponding articulated  joints on a 2D plan. 
 Users can also manually apply articulated joints or detent hinges on selected edges. 
@@ -24,10 +24,10 @@ Functional objects with mechanisms can be fabricated with Flaticulation using ar
 
 
 
-![Results of the strength evaluation](/assets/strength_eval.png)  
+![Results of the strength evaluation](assets/strength_eval.png)  
 
 We validate our proposed model by measuring real prototypes and conducting stress-strain analysis to understand their structural strength among joints with different articulated angles. 
-![Results of the angle evaluation](/assets/angle_eval.png)
+![Results of the angle evaluation](assets/angle_eval.png)
 
 
 
