@@ -1,10 +1,10 @@
-![Flaticulation Objects](/docs/assets/Header.png)
-
+![Flaticulation Objects](/docs/assets/Header.png) 
 # Flaticulation: Laser Cutting Joints with Articulated Angles
-[Chiao Fang](https://www.chiaofang.tw/), [ Vivian Hsinyueh Chan](http://vivianchan.tw/), [ Lung‑Pan Cheng](http://www.lungpancheng.tw/)
 
+The Flaticulation user interface 1) unfolds a user-loaded 3D model and adds corresponding articulated joints on a 2D plan or 2) have articulated joints / detent hinges applied on to selected edges.
 
-   
+It works as a plugin to Rhino using Grasshopper; open _Flaticulation-UI.gh_ with Grasshopper to use the software. 
+The user interface currently only supports Windows.   
 
 
 ### Publication
