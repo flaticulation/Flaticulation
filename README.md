@@ -3,7 +3,7 @@
 
 The Flaticulation user interface 1) unfolds a user-loaded 3D model and adds corresponding articulated joints on a 2D plan or 2) have articulated joints / detent hinges applied on to selected edges.
 
-It works as a plugin to Rhino using Grasshopper; open _Flaticulation-UI.gh_ with Grasshopper to use the software. 
+It works as a plugin to Rhino using Grasshopper; open **_Flaticulation-UI.gh_** with Grasshopper to use the software. 
 The user interface currently only supports Windows.   
 
 
